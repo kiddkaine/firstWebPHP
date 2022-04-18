@@ -1,0 +1,11 @@
+* {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-size: 20px;
+}
+body {
+	background: linear-gradient(90deg, #aea4e3, #d3ffe8);
+}
+
+h1 {
+	font-size: 32px;
+}
