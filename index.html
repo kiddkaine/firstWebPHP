@@ -10,25 +10,25 @@
 		<title>Отправка на сервер</title>
 	</head>
 
-	
+
 	<body>
 		<h1 align="center">Отправка данных на сервер</h1>
 		<form action="script.php" method="POST" enctype="multipart/form-data" align="center">
-			<h3>Укажите данные</h3>
+			<h3><u>Укажите данные</u></h3>
 			<p>Введите имя: </p><input type="text" name="userName">
 			<p>Введите возраст: </p><input type="number" name="userAge">
 
-			<h3>Загрузите фотографию</h3>
+			<h3><u>Загрузите фотографию</u></h3>
 			<input type="file" name="filename">
 
-			<h3>Выберите пол</h3>
+			<h3><u>Выберите пол</u></h3>
 			<p><input type="radio" name="userGender" value="Мужской" class="rc__item"> Мужской</p>
 			<p><input type="radio" name="userGender" value="Женский" class="rc__item"> Женский</p>
 
-			<h3>Соглашение</h3>
+			<h3><u>Соглашение</u></h3>
 			<p><input type="checkbox" name="agreement" class="rc__item"> Я согласен</p>
 
-			<h3>Выберите направление</h3>
+			<h3><u>Выберите направление</u></h3>
 			<select name="branch">
 				<option value="Программист">Программист</option>
 				<option value="Бухгалтер">Бухгалтер</option>
@@ -42,7 +42,7 @@
 				<option value="Нет профессии">Нет профессии</option>
 			</select>
 
-			<h3>О себе</h3>
+			<h3><u>О себе</u></h3>
 			<textarea name="comments" cols="30" rows="10"></textarea>
 
 			<p><input type="submit" value="Отправить"></p>
