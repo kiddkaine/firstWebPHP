@@ -29,7 +29,7 @@
 				<link rel=\"stylesheet\" href=\"style.css\">
 				<title>Сервер с данными</title>
 			</head>
-			<body>
+			<body align=\"center\">
 				<h1>Данные пришедшие на сервер</h1>
 				<h3>Имя пользователя: <i>$name</i></h3>
 				<h3>Возраст пользователя: <i>$age</i></h3>
