@@ -13,3 +13,9 @@ h1 {
 i {
 	color: rgb(117, 8, 8);
 }
+
+.rc__item {
+	width:15px;
+	height:15px;
+
+}
