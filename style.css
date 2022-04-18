@@ -2,6 +2,7 @@
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	font-size: 20px;
 }
+
 body {
 	background: linear-gradient(90deg, #aea4e3, #d3ffe8);
 }
@@ -17,5 +18,4 @@ i {
 .rc__item {
 	width:15px;
 	height:15px;
-
 }

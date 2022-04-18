@@ -42,7 +42,6 @@
 			</body>
 		</html>
 		";
-
 		echo $output;
 	}
 	else
@@ -62,7 +61,6 @@
 			</body>
 		</html>
 		";
-
 		echo $output;
 	}
 ?>
